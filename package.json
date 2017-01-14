@@ -1,0 +1,25 @@
+{
+  "name": "calendar-prototype",
+  "version": "1.0.0",
+  "description": "An advent calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarnaDesign/calendar-prototype.git"
+  },
+  "author": "KarnaDesign",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/KarnaDesign/calendar-prototype/issues"
+  },
+  "homepage": "https://github.com/KarnaDesign/calendar-prototype#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-less": "^3.3.0"
+  }
+}
